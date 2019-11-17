@@ -1,0 +1,18 @@
+######FUNCTION COLORING#####################
+
+#OBJECTS#
+TimeInterrupt	KEYWORD1	#BOLD ORANGE
+
+#FUNCTIONS#
+begin	KEYWORD2	#ORANGE
+end	KEYWORD2
+clear	KEYWORD2	 
+addInterrupt	KEYWORD2
+removeInterrupt	KEYWORD2	  	   
+getPrecision	KEYWORD2		  
+
+#LITERALS#
+PRECISION	LITERAL1	#BLUE
+NORMAL	LITERAL1
+
+############################################
